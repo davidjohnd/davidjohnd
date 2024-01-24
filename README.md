@@ -11,7 +11,7 @@ I recently finished the bootcamp! I loved the experience of working with differe
 <br/><br/>
  ⚡ Fun fact: In addition to coding languages, I love learning spoken languages too - I studied French and Italian at University and am currently learning Welsh.
 <br/><br/>
-If you want to chat about any cool projects or anything else, get in touch! 
+If you want to chat about cool projects or anything else, get in touch! 
 </div>
 </div>
 <br/><br/>
