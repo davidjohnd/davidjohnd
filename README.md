@@ -5,9 +5,7 @@
 <div style='display:flex'>
 A bit about me: I'm a languages graduate with a professional background in Money Advice at Citizens Advice and as a self-taught music producer. I've always loved learning new skills and technologies which led to be enrolling in the School of Code bootcamp in 2024! 
 <br/><br/>
-I recently finished the bootcamp! I loved the experience of working with different groups under pressure with new technologies and learning at pace - so I'm now looking to continue my learning journey and land my first role as a developer.
-<br/><br/>
- 🌱 I’m currently working on a number of projects to add to my portfolio. My current goals are to go over the content of the bootcamp to create a weather app (and some other bits to solidify the fundamentals), use the Spotify for Devs tools to create something cool and try out Threejs - as I love Blender and would love to incoporate some 3d in my learning.
+I have just started my first role as an Apprentice Developer at Motability Operations.
 <br/><br/>
  ⚡ Fun fact: In addition to coding languages, I love learning spoken languages too - I studied French and Italian at University and am currently learning Welsh.
 <br/><br/>
