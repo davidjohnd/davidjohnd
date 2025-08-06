@@ -19,7 +19,7 @@ If you want to chat about cool projects or anything else, get in touch!
 </div>
  <h3> My Tech Stack (so far!) </h2>
 <div>
- JavaScript, CSS, HTML, React, Node.js, Next.js, Express, Typescript, Tailwind, MySQL, PostgreSQL, Jest, Supertest, React Testing Library, Supabase, GitHub, Figma, Render.
+ JavaScript, Java, CSS, HTML, React, Node.js, Next.js, Express, Typescript, Tailwind, MySQL, PostgreSQL, Jest, Supertest, React Testing Library, Supabase, GitHub, Figma, Render.
 </div>
 
 
